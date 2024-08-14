@@ -1,0 +1,388 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+      },
+      {
+        "id": 3,
+        "title": "BÁNH MỲ",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+      },
+      {
+        "id": 4,
+        "title": "SỮA RỬA MẶT",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+      },
+      {
+        "id": 5,
+        "title": "MỲ TÔM",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+      },
+      {
+        "id": 6,
+        "title": "NƯỚC NGỌT",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+      },
+      {
+        "id": 7,
+        "title": "QUẦN ÁO",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+      },
+      {
+        "id": 8,
+        "title": "GIÀY DÉP",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+      },
+      {
+        "id": 9,
+        "title": "SÁCH VỞ",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+      },
+      {
+        "id": 10,
+        "title": "ĐỒ ĂN",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+      },
+      {
+        "id": 11,
+        "title": "ĐỒ UỐNG",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+      },
+      {
+        "id": 12,
+        "title": "LINH KIỆN",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+      },
+      {
+        "id": 13,
+        "title": "MÁY TÍNH",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+      },
+      {
+        "id": 14,
+        "title": "CHĂN GA",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+      },
+      {
+        "id": 15,
+        "title": "BÀN GHẾ",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+      },
+      {
+        "id": 16,
+        "title": "TỦ LẠNH",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+      },
+      {
+        "id": 17,
+        "title": "GIƯỜNG",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+      },
+      {
+        "id": 18,
+        "title": "ĐIỀU HOÀ",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+      },
+      {
+        "id": 19,
+        "title": "NÓNG LẠNH",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
+          "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+      },
+      {
+        "id": 20,
+        "title": "iPhone X",
+        "description": "SIM Free, Model A19211 6.5 inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+      }
+    ],
+    "categories": [
+      {
+          "name": "smartphones",
+          "id": "6b2b"
+      },
+      {
+          "name": "laptops",
+          "id": "d604"
+      },
+      {
+          "name": "fragrances",
+          "id": "d295"
+      },
+      {
+          "name": "skincare",
+          "id": "199a"
+      },
+      {
+          "name": "groceries",
+          "id": "8bce"
+      },
+      {
+          "name": "home decoration",
+          "id": "45f3"
+      },
+      {
+          "name": "furniture",
+          "id": "9e70"
+      },
+      {
+          "name": "tops",
+          "id": "42d3"
+      },
+      {
+          "name": "womens-dresses",
+          "id": "d30c"
+      },
+      {
+          "name": "womens-shoes",
+          "id": "b520"
+      },
+      {
+          "name": "womens-shirts",
+          "id": "cb3b"
+      },
+      {
+          "name": "mens-shirts",
+          "id": "7c4d"
+      },
+      {
+          "name": "mens-shoes",
+          "id": "1c9e"
+      },
+      {
+          "name": "mens-watches",
+          "id": "65dd"
+      },
+      {
+          "name": "womens-watches",
+          "id": "15cc"
+      },
+      {
+          "name": "womens-bags",
+          "id": "38c9"
+      },
+      {
+          "name": "womens-jewellery",
+          "id": "9a5e"
+      },
+      {
+          "name": "sunglasses",
+          "id": "f346"
+      },
+      {
+          "name": "automotive",
+          "id": "dfc4"
+      },
+      {
+          "name": "motorcycle",
+          "id": "3fa9"
+      }
+  ]
+  }
+  
